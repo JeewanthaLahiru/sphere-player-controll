@@ -54,7 +54,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\script\Camera.cs" />
+     <Compile Include="Assets\script\OpenDoor.cs" />
      <Compile Include="Assets\script\Player.cs" />
+     <Compile Include="Assets\script\PlayerCast.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>E:/unity object/sphere player controll/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
